@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139000052849",
+    "project_id": "dli-parking",
+    "storage_bucket": "dli-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139000052849:android:3cd5f8319f8689b7be2fd0",
+        "android_client_info": {
+          "package_name": "com.example.dli_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDroOSxQhGkEVa7mSRl--SqaZ0PBQP-SoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

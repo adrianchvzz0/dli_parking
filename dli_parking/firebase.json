@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"dli-parking","appId":"1:139000052849:android:3cd5f8319f8689b7be2fd0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"dli-parking","configurations":{"android":"1:139000052849:android:3cd5f8319f8689b7be2fd0","ios":"1:139000052849:ios:237f748dfac0ed37be2fd0"}}}}}}
